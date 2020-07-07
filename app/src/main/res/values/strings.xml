@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ApkBackup</string>
+
+    <string name="tab_title_restore">بازگردانی</string>
+
+    <string name="hint_backup_search">جستجوی پشتیبان...</string>
+    <string name="hint_restore_search">جستجوی بازگردان...</string>
+    <string name="on_saving">در حال ذخیره سازی</string>
+    <string name="waitng_to_saving">در حال ذخیره سازی لطفا منتظر بمانید</string>
+    <string name="on_downloading">در حال دریافت اطلاعات</string>
+    <string name="please_waiting">لطفا منتظر بمانید</string>
+    <string name="search_city_name">جستجوی نام شهر</string>
+    <string name="tab_title_backup">پشتیبان گیری</string>
+    <string name="dialog_title_permission">تایید دسترسی</string>
+    <string name="dialog_content_permission">لطفا دسترسی خواسته شده را تایید نمایید</string>
+</resources>
